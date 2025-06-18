@@ -40,7 +40,13 @@ This repo houses LaTeX-style templates used to create documents such as CVs and 
 │   ├── Resume.pdf        <- Resume pdf file   
 │   ├── TLCresume.sty        <- Style file containing formatting details
 │   ├── _header.tex        <- CV header 
-│   ├── resume.tex        <- tex file organizing sections 
+│   ├── resume.tex        <- tex file organizing sections
+│
+│
+├── York University  <- Documents related to York University studies and work (e.g., tutoring, research statement)
+│   ├── Peer Tutoring  <-  Sample questions from peer tutoring sessions
+│       ├── TutorQuestions_Nov2018.pdf          
+│       ├── TutorQuestions_Nov2018.tex           
 │
 │
 ├── README.md      <- repo REAME.
