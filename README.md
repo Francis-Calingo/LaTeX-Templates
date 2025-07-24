@@ -44,6 +44,12 @@ This repo houses LaTeX-style templates used to create documents such as CVs and 
 │
 │
 ├── York University  <- Documents related to York University studies and work (e.g., tutoring, research statement)
+│   ├── MA Human Geography  <-  Documents related to my masters program
+│       ├── Research Statement  <-  Research Statement of Interest, as part of my successful application to the program
+│          ├── ResearchStatement.pdf
+│          ├── ResearchStatement.tex  
+│
+│
 │   ├── Peer Tutoring  <-  Sample questions from peer tutoring sessions
 │       ├── TutorQuestions_Nov2018.pdf          
 │       ├── TutorQuestions_Nov2018.tex
