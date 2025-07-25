@@ -56,6 +56,7 @@ This repo houses LaTeX-style templates used to create documents such as CVs and 
 │
 │
 │   ├── Sample Assignments  <-  Sample assignments completed with Overleaf
+│       ├── MATH 4090
 │       ├── MATH_4090_A2.pdf       
 │       ├── MATH_4090_A2.tex
 │       ├── Q1_1A.png
