@@ -31,7 +31,6 @@ This repo houses LaTeX-style templates used to create documents such as CVs and 
 │       ├── activities.tex           
 │       ├── education.tex
 │       ├── experience.tex
-│       ├── language.tex
 │       ├── objective.tex
 │       ├── projects.tex
 │       ├── skills.tex
